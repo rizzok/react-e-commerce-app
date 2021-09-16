@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "T-shirt",
+    "description": "accusamus beatae ad facilis cum similique qui sunt",
+    "price": 14.90,
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2,
+    "title": "Pantalon en Lin",
+    "description": "reprehenderit est deserunt velit ipsam",
+    "price": 45,
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "id": 3,
+    "title": "Veste en cuir",
+    "description": "officia porro iure quia iusto qui ipsa ut modi",
+    "price": 125.90,
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "id": 4,
+    "title": "Pantalon",
+    "description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "price": 49.90,
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "id": 5,
+    "title": "Slip",
+    "description": "natus nisi omnis corporis facere molestiae rerum in",
+    "price": 14.90,
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "id": 6,
+    "title": "Chaussettes",
+    "description": "accusamus ea aliquid et amet sequi nemo",
+    "price": 9.90,
+    "url": "https://via.placeholder.com/600/56a8c2",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+  },
+  {
+    "id": 7,
+    "title": "Bottes",
+    "description": "officia delectus consequatur vero aut veniam explicabo molestias",
+    "price": 82.90,
+    "url": "https://via.placeholder.com/600/b0f7cc",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+  },
+  {
+    "id": 8,
+    "title": "Chaussures de sport",
+    "description": "aut porro officiis laborum odit ea laudantium corporis",
+    "price": 55.90,
+    "url": "https://via.placeholder.com/600/54176f",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+  },
+  {
+    "id": 9,
+    "title": "Chemise",
+    "description": "qui eius qui autem sed",
+    "price": 35,
+    "url": "https://via.placeholder.com/600/51aa97",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+  },
+  {
+    "id": 10,
+    "title": "Pantalon en Lin",
+    "description": "beatae et provident et ut vel",
+    "price": 25.90,
+    "url": "https://via.placeholder.com/600/810b14",
+    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+  },
+  {
+    "id": 11,
+    "title": "Pantalon en Lin",
+    "description": "nihil at amet non hic quia qui",
+    "price": 25.90,
+    "url": "https://via.placeholder.com/600/1ee8a4",
+    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+  },
+  {
+    "id": 12,
+    "title": "Pantalon en Lin",
+    "description": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
+    "price": 25.90,
+    "url": "https://via.placeholder.com/600/66b7d2",
+    "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+  }
+]
