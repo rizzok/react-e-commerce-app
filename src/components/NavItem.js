@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink, useRouteMatch } from 'react-router-dom';
 
-const MenuItem = ({ label, to, activeOnlyWhenExact }) => {
+const NavItem = ({ label, to, activeOnlyWhenExact }) => {
   let match = useRouteMatch({
     path: to,
     exact: activeOnlyWhenExact,
@@ -11,7 +11,7 @@ const MenuItem = ({ label, to, activeOnlyWhenExact }) => {
     <NavLink
       to={to}
       activeClassName="active"
-      className={`py-2 px-4 leading-5 hover:bg-blue-200 rounded ${
+      className={`font-medium text-sm py-2 px-4 leading-5 hover:bg-blue-200 rounded ${
         match ? 'bg-blue-100' : ''
       }`}
     >
@@ -20,4 +20,4 @@ const MenuItem = ({ label, to, activeOnlyWhenExact }) => {
   );
 };
 
-export default MenuItem;
+export default NavItem;

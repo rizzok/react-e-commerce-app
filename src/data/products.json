@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Pantalon",
-    "description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "description": "culpa odio esse rerum omnis laboriosam voluptate",
     "price": 49.90,
     "url": "https://via.placeholder.com/600/d32776",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title": "Bottes",
-    "description": "officia delectus consequatur vero aut veniam explicabo molestias",
+    "description": "officia delectus consequatur vero aut veniam explicabo",
     "price": 82.90,
     "url": "https://via.placeholder.com/600/b0f7cc",
     "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "title": "Pantalon en Lin",
-    "description": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
+    "description": "mollitia soluta ut rerum eos aliquam consequatur",
     "price": 25.90,
     "url": "https://via.placeholder.com/600/66b7d2",
     "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
