@@ -4,9 +4,7 @@
 
 @layer base {
   h2 {
-    @apply text-lg text-center;
-  }
-  p {
-    @apply my-4;
+    @apply text-lg;
+    @apply mb-4;
   }
 }

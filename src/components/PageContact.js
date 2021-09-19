@@ -1,6 +1,6 @@
 import PageWrapper from './PageWrapper';
 
-const Contact = () => {
+const PageContact = () => {
   return (
     <PageWrapper>
       <h2>Nous contacter</h2>
@@ -22,4 +22,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default PageContact;
